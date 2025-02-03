@@ -122,7 +122,7 @@ export const Testimonials = () => {
         <div className="section-heading">
           <h2 className="section-title mt-5">What our users say</h2>
           <p className="section-description mt-5">
-            From intutive design to powerful features, you'll find everything you need to create extraordinary projects.
+            From intutive design to powerful features, you&apos;ll find everything you need to create extraordinary projects.
           </p>
         </div>
         <div className="flex justify-center gap-6 mt-10 [mask-image:linear-gradient(to_bottom,transparent,black_25%,black_75%,transparent)] max-h-[738px] overflow-hidden">
